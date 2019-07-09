@@ -34,7 +34,6 @@ class MyTestSuite(unittest.TestCase):
                     'locName': '北京市朝阳区建国路56号天洋运河F1栋',
                     'longitude': '116.518779',
                     'latitude': '39.908654'}
-
                 r = requests.post(self.checkLocationUrl, data=json.dumps(data1), headers=self.headers)
                 # time.sleep(3)
                 # q = r.json()['msg']
