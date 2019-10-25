@@ -6,9 +6,21 @@ import unittest
 class MyTestSuite(unittest.TestCase):
     def setUp(self):
         self.url='https://testapi.ctgpayroll.com/ehr_saas/web/attEmpLog/saveAttEmpLog.mobile'
-        self.headers = {'Content-Type': 'application/json',
-               'token': 'vwTLTwYvBqCoKH+42+nOsY4yLktvj+CZ/L50SWKwPi46zyWMt0Vx3LMfOYY/Tzl6FBW1kZ6AeTQmqfEueTwebQ=='}
+        self.headers = {'Content-Type': 'application/json'}
         self.checkLocationUrl = 'https://testapi.ctgpayroll.com/ehr_saas/web/attSetLocation/saveAttSetLocation.mobileHr'
+
+    def login_token():
+        # 用户成功登陆后获取token
+        loginUrl = 'https://testapi.ctgpayroll.com/ehr_saas/newMobile/login/login.mobile'
+        headers = {'Content-Type': 'application/json'}
+        json_param = {
+                'custId': '15921595797504',
+                'deviceId': '8B39DD16-3442-43DE-959D-0EE9CD0C1EE6',
+                'mobile': '18612533709',
+                'verificationCode': '4321'
+            }
+        r = requests.post(loginUrl,data=json.dumps(json_param),headers=headers)
+        return r.json()['result']['data']['token']
 
     def test_start(self):
         json_param = {
