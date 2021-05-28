@@ -13,6 +13,7 @@ def mytask():
         # 服务器地址 ,端口， 登录账号 , 密码 ,数据库名称
         conn = MySQLdb.connect(host=host,port=port,user=user,passwd=passwd,db=db,charset='utf8',)
         cursor = conn.cursor()
+        # 执行mysql过程
         sql = ("CALL emp_update_dept();")
         cursor.execute(sql)
         print(sql+"执行成功")
