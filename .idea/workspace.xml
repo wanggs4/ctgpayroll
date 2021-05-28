@@ -4,12 +4,8 @@
     <bookmark url="file://$PROJECT_DIR$/emp/empUpdate/empDeptUpdate.py" line="0" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5aacdce9-4950-4646-93db-1b752f03a5b1" name="Default" comment="add">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/untitled.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/untitled.iml" afterDir="false" />
+    <list default="true" id="5aacdce9-4950-4646-93db-1b752f03a5b1" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/emp_login/emp_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/emp_login/emp_login.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -81,8 +77,8 @@
       <file leaf-file-name="empDeptUpdate.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/emp/empUpdate/empDeptUpdate.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            <state relative-caret-position="314">
+              <caret line="32" column="47" lean-forward="true" selection-start-line="32" selection-start-column="47" selection-end-line="32" selection-end-column="47" />
               <folding>
                 <element signature="e#25#40#0" expanded="true" />
               </folding>
@@ -198,7 +194,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -451,7 +447,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622184021865</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="add">
+      <created>1622184381943</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1622184381943</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -485,15 +488,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="944" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49865046" weight="0.32896653" />
-      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5036675" side_tool="true" weight="0.30179027" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="12" sideWeight="0.5036675" side_tool="true" visible="true" weight="0.30140486" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49932525" weight="0.5395948" />
       <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49865046" weight="0.32896653" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49633253" weight="0.18773946" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32950193" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20512821" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20512821" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" weight="0.3299595" />
       <window_info anchor="right" id="SciView" order="3" weight="0.3299595" />
@@ -875,8 +879,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/emp/empUpdate/empDeptUpdate.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state relative-caret-position="314">
+          <caret line="32" column="47" lean-forward="true" selection-start-line="32" selection-start-column="47" selection-end-line="32" selection-end-column="47" />
           <folding>
             <element signature="e#25#40#0" expanded="true" />
           </folding>
