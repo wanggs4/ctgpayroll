@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 
 import datetime
+from chinese_calendar import is_workday
 import MySQLdb
 
 host = "114.115.161.26"
@@ -13,15 +14,46 @@ def mytask():
         # 服务器地址 ,端口， 登录账号 , 密码 ,数据库名称
         conn = MySQLdb.connect(host=host,port=port,user=user,passwd=passwd,db=db,charset='utf8',)
         cursor = conn.cursor()
-        # 执行mysql过程
+        #查询今天是否有变更部门的员工
         sql = ("CALL emp_update_dept();")
         cursor.execute(sql)
+        print ("=======================================================================================")
         print(sql+"执行成功")
         #对fetchall获取到的结果SQL结果集做换行显示
-        print('\n'.join(str(e) for e in cursor.fetchall()))
+        all ='\n'.join(str(e) for e in cursor.fetchall())
+        if all == '' :
+            print ("无变更部门的员工")
+            print ("=======================================================================================")
+        else:
+            print ("变更部门的员工")
+            print(all)
+            print ("=======================================================================================")
+        # print('\n'.join(str(e) for e in cursor.fetchall()))
+        # 查询今天是否有新增的部门
+        # 判断当天日期是否是工作日
+        date = datetime.datetime.now().date()
+        if is_workday(date):
+                #如果是工作日的逻辑
+                sql1 = ("CALL dept_add();")
+                cursor.execute (sql1)
+                print (sql1 + "执行成功")
+                all1 = '\n'.join (str (e) for e in cursor.fetchall ( ))
+                if all1 == '':
+                        print ("无新增的部门")
+                        print ("=======================================================================================")
+                else:
+                        print ("当天新增部门")
+                        print (all1)
+                        print ("=======================================================================================")
+        else:
+                #非工作日逻辑
+                # sql1 = ("CALL dept_add();")
+                # cursor.execute (sql1)
+                # print (sql1 + "执行成功")
+                # all1 = '\n'.join (str (e) for e in cursor.fetchall ( ))
+                print("非工作日")
         cursor.close()
         conn.close()
-
 mytask()
 
 
