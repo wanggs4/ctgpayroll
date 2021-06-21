@@ -39,19 +39,27 @@ def mytask():
                 print (sql1 + "执行成功")
                 all1 = '\n'.join (str (e) for e in cursor.fetchall ( ))
                 if all1 == '':
-                        print ("无新增的部门")
+                        print (str(date)+"无新增的部门")
                         print ("=======================================================================================")
                 else:
-                        print ("当天新增部门")
+                        print (str(date)+"当天新增部门")
                         print (all1)
                         print ("=======================================================================================")
         else:
                 #非工作日逻辑
-                # sql1 = ("CALL dept_add();")
-                # cursor.execute (sql1)
-                # print (sql1 + "执行成功")
-                # all1 = '\n'.join (str (e) for e in cursor.fetchall ( ))
-                print("非工作日")
+                sql2 = ("CALL dept_add();")
+                cursor.execute (sql2)
+                print (sql2 + "执行成功")
+                all2 = '\n'.join (str (e) for e in cursor.fetchall ( ))
+                if all2 == '':
+                        print (str(date)+"无新增的部门")
+                        print (
+                                "=======================================================================================")
+                else:
+                        print (str(date)+"当天新增部门")
+                        print (all2)
+                        print (
+                                "=======================================================================================")
         cursor.close()
         conn.close()
 mytask()
