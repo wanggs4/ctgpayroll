@@ -11,6 +11,7 @@ port = 3306
 db = "ctgehr"
 
 def mytask():
+        '''查询数据'''
         # 服务器地址 ,端口， 登录账号 , 密码 ,数据库名称
         conn = MySQLdb.connect(host=host,port=port,user=user,passwd=passwd,db=db,charset='utf8',)
         cursor = conn.cursor()
