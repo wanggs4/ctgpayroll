@@ -1,6 +1,7 @@
 # coding:utf-8
 import requests,json
 import unittest
+import casemethod.method
 
 
 class MyTestSuite(unittest.TestCase):
@@ -23,7 +24,7 @@ class MyTestSuite(unittest.TestCase):
 
 
 if __name__ == '__main__':
-    unittest.main()
+    unittest.main(testLoader=casemethod.method.SequentialTestLoader())
 
 
 
