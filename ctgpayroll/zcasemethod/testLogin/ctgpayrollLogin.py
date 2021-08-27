@@ -6,7 +6,7 @@ class login(unittest.TestCase):
 
     def setUp(self):
         print('========================start==========================')
-        self.loginUrl = 'https://tautodiscover.ctgpayroll.com/ehr_saas/newMobile/login/login.mobile'
+        self.loginUrl = 'https://autodiscover.ctgpayroll.com/ehr_saas/newMobile/login/login.mobile'
         self.checkUrl = 'https://autodiscover.ctgpayroll.com/ehr_saas/web/attEmpLog/saveAttEmpLog.mobile'
         self.headers = {'Content-Type': 'application/json'}
         self.checkLocationUrl = 'https://autodiscover.ctgpayroll.com/ehr_saas/web/attSetLocation/saveAttSetLocation.mobileHr'

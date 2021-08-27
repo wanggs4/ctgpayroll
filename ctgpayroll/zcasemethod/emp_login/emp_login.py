@@ -1,7 +1,7 @@
 # coding:utf-8
 import requests,json
 import unittest
-import ctgpayroll.casemethod.method
+import ctgpayroll.zcasemethod.method
 
 
 class MyTestSuite(unittest.TestCase):
@@ -24,7 +24,7 @@ class MyTestSuite(unittest.TestCase):
 
 
 if __name__ == '__main__':
-    unittest.main(testLoader=ctgpayroll.casemethod.method.SequentialTestLoader( ))
+    unittest.main(testLoader=ctgpayroll.zcasemethod.method.SequentialTestLoader( ))
 
 
 
