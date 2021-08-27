@@ -1,5 +1,5 @@
 # coding:utf-8
-import requests,json,datetime
+import requests,json,datetime,time
 import unittest
 
 class MyTestSuite(unittest.TestCase):
@@ -37,7 +37,8 @@ class MyTestSuite(unittest.TestCase):
             'longitude': '116.518779',
             'type': 1,
             'wifiMac': '',
-            'wifiName': ''}
+            'wifiName': ''
+        }
         requests1 = requests.post(self.urlcheck, data=json.dumps(json_param), headers=self.headers_token)
         if requests1.json()['msg'] ==  '打卡成功':
                 print('testcase1:员工打卡',requests1.json()['msg'])
@@ -55,14 +56,15 @@ class MyTestSuite(unittest.TestCase):
                   'wifiMac': '',
                   'wifiName': '',
                   'remark': '测试外勤',
-                  'picUrl': '22978355286016/27631730053120/f419bb8c3ba44f7bbd38c14b0320edf2.jpg'}
+                  'picUrl': '22978355286016/27631730053120/f419bb8c3ba44f7bbd38c14b0320edf2.jpg'
+        }
         requests1 = requests.post(self.urlcheck, data=json.dumps(json_param), headers=self.headers_token)
         print('testcase2:员工外勤打卡', requests1.json()['msg'])
 
-    def test_empCheck_bq(self):
+    def test_empCheck_bq3(self):
         now_time = datetime.datetime.now()
         json_pqram={
-            'checkTime':now_time.strftime(str,'2019-05-20 08:59:00'),
+            'checkTime': now_time.strftime ('%Y-%m-%d %H:%M:%S'),
             'checkType':1,
             'remark':'测试补签上班',
             'saveType':1,
