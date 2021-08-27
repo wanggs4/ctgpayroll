@@ -1,6 +1,6 @@
 # -*- coding:utf-8 -*-
 import unittest
-from ctgpayroll.myLogin.login import login
+from ctgpayroll.MyLogin.login import login
 
 class url(object):
     def setUp(self):

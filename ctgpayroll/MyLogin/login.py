@@ -1,7 +1,7 @@
 # -*- coding:utf-8 -*-
 import requests,json
 import unittest
-from ctgpayroll.Url.myurl import *
+from ctgpayroll.MyUrl.myurl import *
 
 
 class login(unittest.TestCase):

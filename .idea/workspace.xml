@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5aacdce9-4950-4646-93db-1b752f03a5b1" name="Default" comment="">
+    <list default="true" id="5aacdce9-4950-4646-93db-1b752f03a5b1" name="Default" comment="Default">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ctgpayroll/App_Ios/EmpCheckTest112.py" beforeDir="false" afterPath="$PROJECT_DIR$/ctgpayroll/App_Ios/EmpCheckTest112.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ctgpayroll/App/EmpCheckTest112.py" beforeDir="false" afterPath="$PROJECT_DIR$/ctgpayroll/CtgApp/EmpCheckTest112Api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ctgpayroll/App_Android/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/ctgpayroll/CtgApp/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ctgpayroll/App_Android/eHRAppTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/ctgpayroll/CtgApp/eHRAppTest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ctgpayroll/App_Android/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ctgpayroll/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/connectionpool.py" beforeDir="false" afterPath="$PROJECT_DIR$/ctgpayroll/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/connectionpool.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ctgpayroll/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/contrib/appengine.py" beforeDir="false" afterPath="$PROJECT_DIR$/ctgpayroll/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/contrib/appengine.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ctgpayroll/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/exceptions.py" beforeDir="false" afterPath="$PROJECT_DIR$/ctgpayroll/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/exceptions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ctgpayroll/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/util/url.py" beforeDir="false" afterPath="$PROJECT_DIR$/ctgpayroll/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/util/url.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ctgpayroll/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/index.py" beforeDir="false" afterPath="$PROJECT_DIR$/ctgpayroll/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/index.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ctgpayroll/Lib/site-packages/selenium/webdriver/ie/options.py" beforeDir="false" afterPath="$PROJECT_DIR$/ctgpayroll/Lib/site-packages/selenium/webdriver/ie/options.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ctgpayroll/Lib/site-packages/urllib3/connection.py" beforeDir="false" afterPath="$PROJECT_DIR$/ctgpayroll/Lib/site-packages/urllib3/connection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ctgpayroll/Lib/site-packages/urllib3/connectionpool.py" beforeDir="false" afterPath="$PROJECT_DIR$/ctgpayroll/Lib/site-packages/urllib3/connectionpool.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ctgpayroll/Lib/site-packages/urllib3/contrib/_appengine_environ.py" beforeDir="false" afterPath="$PROJECT_DIR$/ctgpayroll/Lib/site-packages/urllib3/contrib/_appengine_environ.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ctgpayroll/Lib/site-packages/urllib3/contrib/appengine.py" beforeDir="false" afterPath="$PROJECT_DIR$/ctgpayroll/Lib/site-packages/urllib3/contrib/appengine.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ctgpayroll/Lib/site-packages/urllib3/exceptions.py" beforeDir="false" afterPath="$PROJECT_DIR$/ctgpayroll/Lib/site-packages/urllib3/exceptions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ctgpayroll/Lib/site-packages/urllib3/util/connection.py" beforeDir="false" afterPath="$PROJECT_DIR$/ctgpayroll/Lib/site-packages/urllib3/util/connection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ctgpayroll/Lib/site-packages/urllib3/util/url.py" beforeDir="false" afterPath="$PROJECT_DIR$/ctgpayroll/Lib/site-packages/urllib3/util/url.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ctgpayroll/Url/myurl.py" beforeDir="false" afterPath="$PROJECT_DIR$/ctgpayroll/MyUrl/myurl.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ctgpayroll/all/CTGattemplogCheck.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ctgpayroll/all/repairCheck.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ctgpayroll/myLogin/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/ctgpayroll/MyLogin/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ctgpayroll/myLogin/login.py" beforeDir="false" afterPath="$PROJECT_DIR$/ctgpayroll/MyLogin/login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ctgpayroll/payrollEmpLogin/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/ctgpayroll/MyUrl/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ctgpayroll/payrollEmpLogin/emp_login.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ctgpayroll/testLogin/__init__.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,6 +46,7 @@
     <SUITE FILE_PATH="coverage/untitled$attemplogOutsidecheck.coverage" NAME="attemplogOutsidecheck Coverage Results" MODIFIED="1558338458529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/newUntitled$Unittests_in_repairCheck_py.coverage" NAME="Unittests in repairCheck.py Coverage Results" MODIFIED="1622641065953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/emp/all" />
     <SUITE FILE_PATH="coverage/untitled$attEmplog.coverage" NAME="attEmplog Coverage Results" MODIFIED="1558336580433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ctgpayroll$Unittests_for_EmpCheckTest112_MyTestSuite.coverage" NAME="Unittests for EmpCheckTest112.MyTestSuite Coverage Results" MODIFIED="1630035159064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ctgpayroll/App" />
     <SUITE FILE_PATH="coverage/newUntitled$empDeptUpdate.coverage" NAME="empDeptUpdate Coverage Results" MODIFIED="1624583865910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/emp/empUpdate" />
     <SUITE FILE_PATH="coverage/ctgpayroll$Unittests_for_EmpCheckTest112_MyTestSuite_test_empCheck1.coverage" NAME="Unittests for EmpCheckTest112.MyTestSuite.test_empCheck1 Coverage Results" MODIFIED="1630027768664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ctgpayroll/App_Ios" />
     <SUITE FILE_PATH="coverage/untitled$attemplogEndcheck.coverage" NAME="attemplogEndcheck Coverage Results" MODIFIED="1558338607327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -37,6 +62,7 @@
     <SUITE FILE_PATH="coverage/newUntitled$Unittests_in_emp_login_py.coverage" NAME="Unittests in emp_login.py Coverage Results" MODIFIED="1622640940006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/emp/payrollEmpLogin" />
     <SUITE FILE_PATH="coverage/untitled$attemplogCheck.coverage" NAME="attemplogCheck Coverage Results" MODIFIED="1571974864673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
     <SUITE FILE_PATH="coverage/untitled$HRtest.coverage" NAME="HRtest Coverage Results" MODIFIED="1564048500301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Appium" />
+    <SUITE FILE_PATH="coverage/ctgpayroll$Unittests_for_EmpCheckTest112_MyTestSuite_test_empCheck_bq3.coverage" NAME="Unittests for EmpCheckTest112.MyTestSuite.test_empCheck_bq3 Coverage Results" MODIFIED="1630034721206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ctgpayroll/App" />
     <SUITE FILE_PATH="coverage/untitled$attemplog1.coverage" NAME="attemplog1 Coverage Results" MODIFIED="1558337972944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1558342920459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
     <SUITE FILE_PATH="coverage/untitled$eHRAppTest.coverage" NAME="eHRAppTest Coverage Results" MODIFIED="1564049367190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app" />
@@ -47,6 +73,7 @@
     <SUITE FILE_PATH="coverage/untitled$tsetLogin.coverage" NAME="tsetLogin Coverage Results" MODIFIED="1571971870529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/login" />
     <SUITE FILE_PATH="coverage/newUntitled$Unittests_for_method_TestCasesOrder.coverage" NAME="Unittests for method.TestCasesOrder Coverage Results" MODIFIED="1625034785088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/casemethod" />
     <SUITE FILE_PATH="coverage/untitled$HRtest__1_.coverage" NAME="HRtest (1) Coverage Results" MODIFIED="1564049232795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/App" />
+    <SUITE FILE_PATH="coverage/ctgpayroll$Unittests_for_EmpCheckTest112Api_MyTestSuite.coverage" NAME="Unittests for EmpCheckTest112Api.MyTestSuite Coverage Results" MODIFIED="1630035504655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ctgpayroll/CtgApp" />
     <SUITE FILE_PATH="coverage/untitled$repairCheck.coverage" NAME="repairCheck Coverage Results" MODIFIED="1558403273200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
   </component>
   <component name="DatabaseView">
@@ -87,14 +114,14 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="EmpCheckTest112.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ctgpayroll/App_Ios/EmpCheckTest112.py">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="EmpCheckTest112Api.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ctgpayroll/CtgApp/EmpCheckTest112Api.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-247">
-              <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+            <state relative-caret-position="182">
+              <caret line="44" column="9" lean-forward="true" selection-start-line="44" selection-start-column="9" selection-end-line="44" selection-end-column="9" />
               <folding>
-                <element signature="e#15#35#0" expanded="true" />
+                <element signature="e#15#49#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -158,6 +185,8 @@
         <option value="$PROJECT_DIR$/ctgpayroll/Url/myurl.py" />
         <option value="$PROJECT_DIR$/ctgpayroll/myLogin/login.py" />
         <option value="$PROJECT_DIR$/ctgpayroll/App_Ios/EmpCheckTest112.py" />
+        <option value="$PROJECT_DIR$/ctgpayroll/App/EmpCheckTest112.py" />
+        <option value="$PROJECT_DIR$/ctgpayroll/testLogin/ctgpayrollLogin.py" />
       </list>
     </option>
   </component>
@@ -182,6 +211,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -194,17 +224,10 @@
               <item name="ctgpayroll" type="462c0819:PsiDirectoryNode" />
               <item name="ctgpayroll" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="ctgpayroll" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ctgpayroll" type="462c0819:PsiDirectoryNode" />
-              <item name="ctgpayroll" type="462c0819:PsiDirectoryNode" />
-              <item name="App_Ios" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -218,9 +241,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\python_project\ctgpayroll\ctgpayroll\zcasemethod" />
+      <recent name="C:\python_project\ctgpayroll\ctgpayroll\casemethod" />
+      <recent name="C:\python_project\ctgpayroll\ctgpayroll\casemethod\all" />
       <recent name="C:\python_project\ctgpayroll\ctgpayroll\App_Ios" />
       <recent name="C:\python_project\ctgpayroll\emp" />
-      <recent name="C:\untitled\venv\all" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\python_project\newUntitled\emp\empUpdate" />
@@ -241,7 +266,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests for EmpCheckTest112.MyTestSuite.test_empCheck1">
+  <component name="RunManager" selected="Python tests.Unittests for EmpCheckTest112Api.MyTestSuite">
     <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python">
       <module name="untitled" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -280,92 +305,89 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Unittests for EmpCheckTest112.MyTestSuite.test员工打卡1" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for EmpCheckTest112Api.MyTestSuite" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="untitled" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ctgpayroll/App_Ios" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ctgpayroll/CtgApp" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;EmpCheckTest112.MyTestSuite.test员工打卡1&quot;" />
+      <option name="_new_target" value="&quot;EmpCheckTest112Api.MyTestSuite&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
-    <configuration name="Unittests for EmpCheckTest112.MyTestSuite.test_empCheck1" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for ctgpayroll.CtgApp.EmpCheckTest112Api.MyTestSuite" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="untitled" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ctgpayroll/App_Ios" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ctgpayroll/CtgApp" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;EmpCheckTest112.MyTestSuite.test_empCheck1&quot;" />
+      <option name="_new_target" value="&quot;ctgpayroll.CtgApp.EmpCheckTest112Api.MyTestSuite&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
-    <configuration name="Unittests for login.login" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for ctgpayroll.CtgApp.EmpCheckTest112Api.MyTestSuite" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="untitled" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ctgpayroll/myLogin" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ctgpayroll/CtgApp" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;login.login&quot;" />
+      <option name="_new_target" value="&quot;ctgpayroll.CtgApp.EmpCheckTest112Api.MyTestSuite&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
-    <configuration name="Unittests for login.login.testlogin_token" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for ctgpayroll.CtgApp.EmpCheckTest112Api.MyTestSuite" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="untitled" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ctgpayroll/myLogin" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ctgpayroll/CtgApp" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;login.login.testlogin_token&quot;" />
+      <option name="_new_target" value="&quot;ctgpayroll.CtgApp.EmpCheckTest112Api.MyTestSuite&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
-    <configuration name="Unittests in emp_login.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for ctgpayroll.CtgApp.EmpCheckTest112Api.MyTestSuite" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="untitled" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ctgpayroll/emp_login" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ctgpayroll/CtgApp" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/ctgpayroll/emp_login/emp_login.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="_new_target" value="&quot;ctgpayroll.CtgApp.EmpCheckTest112Api.MyTestSuite&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
     <list>
       <item itemvalue="Python.test1" />
       <item itemvalue="Python.Unnamed" />
-      <item itemvalue="Python tests.Unittests in emp_login.py" />
-      <item itemvalue="Python tests.Unittests for login.login" />
-      <item itemvalue="Python tests.Unittests for login.login.testlogin_token" />
-      <item itemvalue="Python tests.Unittests for EmpCheckTest112.MyTestSuite.test员工打卡1" />
-      <item itemvalue="Python tests.Unittests for EmpCheckTest112.MyTestSuite.test_empCheck1" />
+      <item itemvalue="Python tests.Unittests for ctgpayroll.CtgApp.EmpCheckTest112Api.MyTestSuite" />
+      <item itemvalue="Python tests.Unittests for EmpCheckTest112Api.MyTestSuite" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Unittests for EmpCheckTest112.MyTestSuite.test_empCheck1" />
-        <item itemvalue="Python tests.Unittests for EmpCheckTest112.MyTestSuite.test员工打卡1" />
-        <item itemvalue="Python tests.Unittests for login.login" />
-        <item itemvalue="Python tests.Unittests for login.login.testlogin_token" />
-        <item itemvalue="Python tests.Unittests in emp_login.py" />
+        <item itemvalue="Python tests.Unittests for EmpCheckTest112Api.MyTestSuite" />
+        <item itemvalue="Python tests.Unittests for ctgpayroll.CtgApp.EmpCheckTest112Api.MyTestSuite" />
+        <item itemvalue="Python tests.Unittests for ctgpayroll.CtgApp.EmpCheckTest112Api.MyTestSuite" />
+        <item itemvalue="Python tests.Unittests for ctgpayroll.CtgApp.EmpCheckTest112Api.MyTestSuite" />
+        <item itemvalue="Python tests.Unittests for ctgpayroll.CtgApp.EmpCheckTest112Api.MyTestSuite" />
       </list>
     </recent_temporary>
   </component>
@@ -527,39 +549,74 @@
       <option name="project" value="LOCAL" />
       <updated>1629976845541</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="修改case名称">
+      <created>1630029184182</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1630029184182</updated>
+    </task>
+    <task id="LOCAL-00023" summary="调整包和调整测试用例">
+      <created>1630034311049</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1630034311049</updated>
+    </task>
+    <task id="LOCAL-00024" summary="add  补签接口case">
+      <created>1630034768392</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1630034768392</updated>
+    </task>
+    <task id="LOCAL-00025" summary="add时间戳，add补签case">
+      <created>1630035199119</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1630035199119</updated>
+    </task>
+    <task id="LOCAL-00026" summary="整理结构">
+      <created>1630035496093</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1630035496093</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_for_login_login_testlogin_token - 2021.08.26 at 19h 02m 40s.xml">
-      <configuration name="Unittests for login.login.testlogin_token" configurationId="tests" />
+    <history-entry file="Unittests_for_EmpCheckTest112_MyTestSuite_test_empCheck_bq3 - 2021.08.27 at 11h 25m 22s.xml">
+      <configuration name="Unittests for EmpCheckTest112.MyTestSuite.test_empCheck_bq3" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_login_login_testlogin_token - 2021.08.26 at 19h 10m 00s.xml">
-      <configuration name="Unittests for login.login.testlogin_token" configurationId="tests" />
+    <history-entry file="Unittests_for_EmpCheckTest112_MyTestSuite - 2021.08.27 at 11h 26m 18s.xml">
+      <configuration name="Unittests for EmpCheckTest112.MyTestSuite" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_login_login_testlogin_token - 2021.08.26 at 19h 11m 54s.xml">
-      <configuration name="Unittests for login.login.testlogin_token" configurationId="tests" />
+    <history-entry file="Unittests_for_EmpCheckTest112_MyTestSuite - 2021.08.27 at 11h 26m 55s.xml">
+      <configuration name="Unittests for EmpCheckTest112.MyTestSuite" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_login_login_testlogin_token - 2021.08.26 at 19h 12m 15s.xml">
-      <configuration name="Unittests for login.login.testlogin_token" configurationId="tests" />
+    <history-entry file="Unittests_for_EmpCheckTest112_MyTestSuite - 2021.08.27 at 11h 27m 57s.xml">
+      <configuration name="Unittests for EmpCheckTest112.MyTestSuite" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_login_login_testlogin_token - 2021.08.26 at 19h 12m 33s.xml">
-      <configuration name="Unittests for login.login.testlogin_token" configurationId="tests" />
+    <history-entry file="Unittests_for_EmpCheckTest112_MyTestSuite - 2021.08.27 at 11h 28m 27s.xml">
+      <configuration name="Unittests for EmpCheckTest112.MyTestSuite" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_login_login_testlogin_token - 2021.08.26 at 19h 14m 28s.xml">
-      <configuration name="Unittests for login.login.testlogin_token" configurationId="tests" />
+    <history-entry file="Unittests_for_EmpCheckTest112_MyTestSuite - 2021.08.27 at 11h 29m 53s.xml">
+      <configuration name="Unittests for EmpCheckTest112.MyTestSuite" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_login_login_testlogin_token - 2021.08.26 at 19h 18m 05s.xml">
-      <configuration name="Unittests for login.login.testlogin_token" configurationId="tests" />
+    <history-entry file="Unittests_for_EmpCheckTest112_MyTestSuite - 2021.08.27 at 11h 31m 01s.xml">
+      <configuration name="Unittests for EmpCheckTest112.MyTestSuite" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_login_login - 2021.08.26 at 19h 18m 18s.xml">
-      <configuration name="Unittests for login.login" configurationId="tests" />
+    <history-entry file="Unittests_for_EmpCheckTest112_MyTestSuite - 2021.08.27 at 11h 32m 40s.xml">
+      <configuration name="Unittests for EmpCheckTest112.MyTestSuite" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_login_login - 2021.08.26 at 19h 18m 30s.xml">
-      <configuration name="Unittests for login.login" configurationId="tests" />
+    <history-entry file="Unittests_for_EmpCheckTest112Api_MyTestSuite - 2021.08.27 at 11h 36m 52s.xml">
+      <configuration name="Unittests for EmpCheckTest112Api.MyTestSuite" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_EmpCheckTest112_MyTestSuite_test_empCheck1 - 2021.08.27 at 09h 29m 28s.xml">
-      <configuration name="Unittests for EmpCheckTest112.MyTestSuite.test_empCheck1" configurationId="tests" />
+    <history-entry file="Unittests_for_EmpCheckTest112Api_MyTestSuite - 2021.08.27 at 11h 38m 26s.xml">
+      <configuration name="Unittests for EmpCheckTest112Api.MyTestSuite" configurationId="tests" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -573,60 +630,62 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="944" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49865046" weight="0.32896653" />
+      <window_info anchor="bottom" id="调试" />
       <window_info anchor="bottom" x="27" y="223" width="1482" height="483" id="Event Log" order="12" sideWeight="0.48582995" side_tool="true" type="FLOATING" weight="0.61685824" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49932525" weight="0.53895277" />
       <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49865046" weight="0.32822478" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.51417005" visible="true" weight="0.03320562" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32950193" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19568151" />
+      <window_info anchor="bottom" id="运行" weight="0.32950193" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19905533" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" weight="0.3299595" />
       <window_info anchor="right" id="SciView" order="3" weight="0.3299595" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4979757" weight="0.33077905" />
+      <window_info anchor="bottom" id="找到" weight="0.32950193" />
+      <window_info anchor="bottom" id="Anonymous Apex" order="13" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Log Viewer" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.51417005" weight="0.23116219" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4979757" weight="0.33077905" />
       <window_info anchor="bottom" id="SOQL Query" order="13" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Database Console" order="13" weight="0.32950193" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32950193" />
-      <window_info anchor="bottom" id="Anonymous Apex" order="13" />
+      <window_info anchor="bottom" id="Log Viewer" order="13" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Log Viewer" order="16" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.1437247" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49865046" weight="0.32896653" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49932525" weight="0.53895277" />
       <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.51417005" visible="true" weight="0.3192848" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49865046" weight="0.32822478" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3296501" />
-      <window_info anchor="bottom" id="SOQL Query" order="13" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4979757" weight="0.33077905" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32950193" />
       <window_info anchor="bottom" x="27" y="223" width="1482" height="483" id="Event Log" order="12" sideWeight="0.48582995" side_tool="true" type="FLOATING" weight="0.61685824" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49932525" weight="0.53895277" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" weight="0.3299595" />
       <window_info anchor="bottom" id="Database Console" order="14" weight="0.32950193" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="SOQL Query" order="13" />
       <window_info anchor="right" id="Database" order="4" weight="0.3299595" />
       <window_info anchor="bottom" id="Anonymous Apex" order="15" />
-      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49865046" weight="0.32822478" />
+      <window_info id="Favorites" order="2" side_tool="true" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -672,7 +731,12 @@
     <MESSAGE value="测试非工作日的逻辑" />
     <MESSAGE value="add 备注" />
     <MESSAGE value="add 整理系统架构" />
-    <option name="LAST_COMMIT_MESSAGE" value="add 整理系统架构" />
+    <MESSAGE value="修改case名称" />
+    <MESSAGE value="调整包和调整测试用例" />
+    <MESSAGE value="add  补签接口case" />
+    <MESSAGE value="add时间戳，add补签case" />
+    <MESSAGE value="整理结构" />
+    <option name="LAST_COMMIT_MESSAGE" value="整理结构" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -681,11 +745,6 @@
           <url>file://$PROJECT_DIR$/ctgpayroll/payrollEmpLogin/emp_login.py</url>
           <line>18</line>
           <option name="timeStamp" value="90" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/ctgpayroll/all/CTGattemplogCheck.py</url>
-          <line>1</line>
-          <option name="timeStamp" value="91" />
         </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
@@ -698,21 +757,30 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="94" />
+      <option name="time" value="95" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ctgpayroll/testLogin/tsetLogin.py" />
-    <entry file="file://$PROJECT_DIR$/ctgpayroll/all/testCheck.py" />
-    <entry file="file://$PROJECT_DIR$/ctgpayroll/all/attemplogCheck.py" />
-    <entry file="file://$PROJECT_DIR$/ctgpayroll/all/testCheck.py" />
-    <entry file="file://$PROJECT_DIR$/ctgpayroll/all/attemplogCheck.py" />
-    <entry file="file://$PROJECT_DIR$/ctgpayroll/all/test.py" />
-    <entry file="file://$PROJECT_DIR$/ctgpayroll/all/attemplogCheck.py" />
+    <entry file="file://$PROJECT_DIR$/ctgpayroll/CtgApp/EmpCheckTest112Api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1575">
+          <caret line="64" column="42" lean-forward="true" selection-start-line="64" selection-start-column="42" selection-end-line="64" selection-end-column="45" />
+          <folding>
+            <element signature="e#15#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ctgpayroll/zcasemethod/testLogin/tsetLogin.py" />
+    <entry file="file://$PROJECT_DIR$/ctgpayroll/zcasemethod/all/testCheck.py" />
+    <entry file="file://$PROJECT_DIR$/ctgpayroll/zcasemethod/all/attemplogCheck.py" />
+    <entry file="file://$PROJECT_DIR$/ctgpayroll/zcasemethod/all/testCheck.py" />
+    <entry file="file://$PROJECT_DIR$/ctgpayroll/zcasemethod/all/attemplogCheck.py" />
+    <entry file="file://$PROJECT_DIR$/ctgpayroll/zcasemethod/all/test.py" />
+    <entry file="file://$PROJECT_DIR$/ctgpayroll/zcasemethod/all/attemplogCheck.py" />
     <entry file="file://$PROJECT_DIR$/attEmplogStartcheck.py" />
-    <entry file="file://$PROJECT_DIR$/ctgpayroll/all/test.py" />
-    <entry file="file://$PROJECT_DIR$/ctgpayroll/all/attemplogCheck.py" />
-    <entry file="file://$PROJECT_DIR$/ctgpayroll/all/test.py" />
+    <entry file="file://$PROJECT_DIR$/ctgpayroll/zcasemethod/all/test.py" />
+    <entry file="file://$PROJECT_DIR$/ctgpayroll/zcasemethod/all/attemplogCheck.py" />
     <entry file="file://$PROJECT_DIR$/attemplogEndcheck.py" />
     <entry file="file://$PROJECT_DIR$/attEmplogStartcheck.py" />
     <entry file="file://$PROJECT_DIR$/attemplogOutsidecheck.py" />
@@ -804,7 +872,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ctgpayroll/all/repairCheck.py" />
     <entry file="file://C:/pythonProjects/venv/Lib/site-packages/MySQLdb/connections.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -819,43 +886,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ctgpayroll/payrollEmpLogin/emp_login.py" />
-    <entry file="file://$PROJECT_DIR$/ctgpayroll/casemethod/method.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="625">
-          <caret line="25" column="52" selection-start-line="25" selection-start-column="52" selection-end-line="25" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ctgpayroll/testLogin/tsetLogin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ctgpayroll/all/CTGattemplogCheck.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-400">
-          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
-          <folding>
-            <element signature="e#15#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ctgpayroll/all/testCheck.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ctgpayroll/all/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1229" />
-      </provider>
-    </entry>
     <entry file="file://C:/pythonProjects/venv/Lib/site-packages/requests/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
@@ -863,46 +893,124 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ctgpayroll/all/attemplogCheck.py">
+    <entry file="file://$PROJECT_DIR$/ctgpayroll/zcasemethod/method.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="625">
+          <caret line="25" column="52" selection-start-line="25" selection-start-column="52" selection-end-line="25" selection-end-column="52" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ctgpayroll/Url/myurl.py">
+    <entry file="file://$PROJECT_DIR$/ctgpayroll/all/CTGattemplogCheck.py" />
+    <entry file="file://$PROJECT_DIR$/ctgpayroll/MyUrl/myurl.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="13" />
+        <state relative-caret-position="325">
+          <caret line="13" selection-start-line="13" selection-end-line="14" selection-end-column="23" />
           <folding>
             <element signature="e#23#38#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ctgpayroll/myLogin/login.py">
+    <entry file="file://$PROJECT_DIR$/ctgpayroll/zcasemethod/EmpUpdate_ZhongRuan/testEmpDeptUpdate.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="18" column="36" lean-forward="true" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+        <state relative-caret-position="-975" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ctgpayroll/zcasemethod/EmpUpdate_ZhongRuan/empDeptUpdate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2222" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ctgpayroll/zcasemethod/EmpUpdate_ZhongRuan/datetest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ctgpayroll/payrollEmpLogin/emp_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ctgpayroll/all/repairCheck.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="48" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="48" />
+          <folding>
+            <element signature="e#1#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ctgpayroll/zcasemethod/all/attemplogCheck.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ctgpayroll/zcasemethod/all/test.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ctgpayroll/zcasemethod/all/testCheck.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ctgpayroll/zcasemethod/testLogin/tsetLogin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ctgpayroll/zcasemethod/testLogin/ctgpayrollLogin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1396">
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ctgpayroll/MyLogin/login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
           <folding>
             <element signature="e#23#43#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ctgpayroll/emp_login/emp_login.py">
+    <entry file="file://$PROJECT_DIR$/ctgpayroll/CtgApp/eHRAppTest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="20" column="52" selection-start-line="20" selection-start-column="52" selection-end-line="20" selection-end-column="52" />
+        <state relative-caret-position="375">
+          <caret line="15" column="40" lean-forward="true" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ctgpayroll/App_Ios/EmpCheckTest112.py">
+    <entry file="file://$PROJECT_DIR$/ctgpayroll/zcasemethod/emp_login/emp_login.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-247">
-          <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+        <state relative-caret-position="329">
+          <caret line="20" column="52" selection-start-line="20" selection-start-column="52" selection-end-line="20" selection-end-column="52" />
           <folding>
             <element signature="e#15#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ctgpayroll/CtgApp/EmpCheckTest112Api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="44" column="9" lean-forward="true" selection-start-line="44" selection-start-column="9" selection-end-line="44" selection-end-column="9" />
+          <folding>
+            <element signature="e#15#49#0" expanded="true" />
           </folding>
         </state>
       </provider>
