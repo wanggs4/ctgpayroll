@@ -17,6 +17,10 @@ class MyTestSuite(unittest.TestCase):
         '''headers带token'''
         self.urlEmpCheck_bq = 'https://autodiscover.ctgpayroll.com/ehr_saas/web/attCheckApply/saveAttCheckApply.mobile'
         '''APP补签接口'''
+        self.now_time1 = datetime.datetime.now()
+        '''获取当前系统的日期和时间'''
+        self.now_time = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+        '''格式化输出datetime模块获取的当前日期和时间'''
 
 
     '''用户成功登陆后获取token'''
@@ -29,7 +33,7 @@ class MyTestSuite(unittest.TestCase):
         r = requests.post(self.urllogin_app,data=json.dumps(json_param),headers=self.headers_Ntoken)
         return r.json()['result']['data']['token']
 
-    def test_empCheck1(self):
+    def test1_empCheck(self):
         json_param = {
             'checkType': 1,
             'deviceId': 'E7F91090-FD98-49D0-9382-D37B1059D013_1',
@@ -41,11 +45,11 @@ class MyTestSuite(unittest.TestCase):
         }
         requests1 = requests.post(self.urlcheck, data=json.dumps(json_param), headers=self.headers_token)
         if requests1.json()['msg'] ==  '打卡成功':
-                print('testcase1:员工打卡',requests1.json()['msg'])
+                print(self.now_time+':'+'测试员工打卡',requests1.json()['msg'])
         elif requests1.json()['msg'] !='打卡成功':
-                raise Exception('testcase1:test员工打卡',requests1.json()['msg'])
+                raise Exception(self.now_time+':'+'测试员工打卡',requests1.json()['msg'])
 
-    def test_empOut2(self):
+    def test2_empOut(self):
         json_param = {
                   'checkAdd':'北京市朝阳区高碑店镇建国路1',
                   'checkType': 3,
@@ -59,18 +63,17 @@ class MyTestSuite(unittest.TestCase):
                   'picUrl': '22978355286016/27631730053120/f419bb8c3ba44f7bbd38c14b0320edf2.jpg'
         }
         requests1 = requests.post(self.urlcheck, data=json.dumps(json_param), headers=self.headers_token)
-        print('testcase2:员工外勤打卡', requests1.json()['msg'])
+        print(self.now_time+':'+'测试员工外勤打卡', requests1.json()['msg'])
 
-    def test_empCheck_bq3(self):
-        now_time = datetime.datetime.now()
+    def test3_empCheck_bq(self):
         json_pqram={
-            'checkTime': now_time.strftime ('%Y-%m-%d %H:%M:%S'),
+            'checkTime': self.now_time1.strftime ('%Y-%m-%d %H:%M:%S'),
             'checkType':1,
             'remark':'测试补签上班',
             'saveType':1,
         }
         requests1 = requests.post(self.urlEmpCheck_bq,data=json.dumps(json_pqram),headers=self.headers_token)
-        print('testcase3:测试补签上班',requests1.text)
+        print(self.now_time+':'+'测试员工补签上班',requests1.json()['msg'])
 
 class SequentialTestLoader(unittest.TestLoader):
     def getTestCaseNames(self, testCaseClass):
